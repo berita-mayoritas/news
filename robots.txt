@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://laporanharini.github.io/beritaterkini/sitemap.xml
+Sitemap: https://berita-mayoritas.github.io/news/sitemap.xml

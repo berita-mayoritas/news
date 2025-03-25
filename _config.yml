@@ -1,0 +1,19 @@
+title: "Berita Mayoritas"
+description: "Berita Mayoritas - Berita, informasi, dan update terkini dari seluruh dunia"
+url: "https://berita-mayoritas.github.io"
+baseurl: "/news"  # Jika ada di subfolder
+
+# Plugin
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-minifier
+  - jekyll-amp
+  - jekyll-compress-images
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
